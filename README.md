@@ -1,1 +1,1 @@
-# hapiDocs.github.io
+# github.io
